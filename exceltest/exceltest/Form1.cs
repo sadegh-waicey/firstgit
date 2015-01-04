@@ -73,6 +73,7 @@ namespace exceltest
         private void trackBar5_Scroll(object sender, EventArgs e)
         {
             label13.Text = ((decimal)trackBar5.Value / (decimal)100).ToString();
+//llkkii
         }
 
         private void trackBar6_Scroll(object sender, EventArgs e)
